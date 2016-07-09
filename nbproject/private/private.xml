@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/wamp/www/turma_php/model/Professor.php</file>
+            <file>file:/C:/wamp/www/turma_php/model/Usuario.php</file>
+            <file>file:/C:/wamp/www/turma_php/control/EspecialidadeControl.php</file>
+            <file>file:/C:/wamp/www/turma_php/control/ProfessorControl.php</file>
+            <file>file:/C:/wamp/www/turma_php/db/Conexao.php</file>
+            <file>file:/C:/wamp/www/turma_php/view/listar_especialidade.php</file>
+            <file>file:/C:/wamp/www/turma_php/view/listar_usuarios.php</file>
+            <file>file:/C:/wamp/www/turma_php/control/UsuarioControl.php</file>
+            <file>file:/C:/wamp/www/turma_php/view/listar_professores.php</file>
+            <file>file:/C:/wamp/www/turma_php/db/Config.php</file>
+            <file>file:/C:/wamp/www/turma_php/model/Especialidade.php</file>
+        </group>
+    </open-files>
+</project-private>

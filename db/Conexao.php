@@ -5,12 +5,3 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-
-/**
- * Description of conexao
- *
- * @author PHP - MySQL
- */
-class conexao {
-    //put your code here
-}

@@ -1,0 +1,10 @@
+Configurar o GitBash:
+
+
+git status
+
+git add -A
+
+git commit -n " "
+
+git push origin master

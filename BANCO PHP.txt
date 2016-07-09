@@ -1,0 +1,7 @@
+SELECT
+
+INSERT INTO especialidade (nome) VALUES ('humanas)
+
+UPDATE INTO 
+
+DELETE FROM especialidade WHERE id = 2

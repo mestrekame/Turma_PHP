@@ -1,0 +1,18 @@
+Passos para publicar o projeto no repositorio no git hub
+
+cd C:
+
+cd wamp/www/
+
+git clone "cola o link do github"
+
+
+
+Estrutura do Projeto Netbeans
+
+- projeto_turma_php
+        arquivos de codigo existente - model - view - control
+
+
+- Dentro de "Model" criar 3 classes
+       usuario - professor - especialidadesmodelmom

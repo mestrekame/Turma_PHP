@@ -1,0 +1,95 @@
+Curso de PHP
+
+
+Prof Ricardo
+
+
+ricardo.b.silva13@gmail.com
+
+
+Material para estudar no Youtube = Git akita
+---------------------------------------------------
+
+Integração com Delphi e PHP:
+
+Json = Formato de Dados
+
+Pega a base de delphi e implementa no bamco de PHP
+
+
+
+
+----------------------------------------------------
+
+Aula 1
+
+<?php
+	$nome_variavel = '*helloworld';
+	echo $nome_variavel;
+?>
+
+-----------------------------------------------------
+
+
+<?php
+	$numero=1;
+	while ( $numero <= 50) {
+		echo $numero . "<br>";
+		$numero++;
+	}
+?>
+
+------------------------------------------------------
+
+<?php
+	$numero=1;
+	for ($numero; $numero < 50; $numero++) { 
+		echo $numero . "<br>";
+	}
+?>
+
+------------------------------------------------------
+
+<?php
+	$times = ["Real madrid" , "Barcelona"];
+	foreach ($times as $time_atual) {
+		echo $time_atual . "<br>";
+	}
+?>
+
+------------------------------------------------------
+
+<?php
+	funcion hello() {
+		echo 'Ola Mundo';
+	}
+hello(;)
+
+?>
+
+--------------------------------------------------------
+
+<?php
+	function hello() {
+		$lista = ["time A", "Time B"];
+		foreach ($lista as  $time) {
+			echo $time;
+	}
+}
+hello();
+
+?>
+
+---------------------------------------------------------
+
+<?php
+	function hello($time1,$time2) {
+		$lista = ["$time1", "$time2"];
+		foreach ($lista as  $time) {
+			echo $time;
+	}
+}
+hello("Flamengo" , "Vasco");
+hello("Santos" , "Palmeiras");
+
+?>
